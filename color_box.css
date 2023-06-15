@@ -1,0 +1,17 @@
+#Box{
+	border:solid 2px black;
+	height:200px;
+	width: 200px;
+	margin: auto;
+}
+#button {
+	text-align:center;
+	margin-top:5px;
+}
+	
+#position{
+	text-align:center;
+	margin-top:5px;
+	
+
+}
